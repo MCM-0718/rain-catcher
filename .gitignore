@@ -1,0 +1,17 @@
+# Compiled class files
+bin/
+target/
+
+# Local score file
+.raincatcher_highscore.dat
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Temporary logs
+*.log
