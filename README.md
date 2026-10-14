@@ -1,4 +1,4 @@
-# RAIN CATCHER — Code Review, Architecture & Teacher Debugging Guide
+# RAIN CATCHER — BBM INSPIRED
 
 > **Presentation & Defense Survival Manual**: This document provides a complete, line-by-line and section-by-section breakdown of every class, method, algorithm, and data structure in the **Rain Catcher** codebase. Use this guide during code defense and live presentation to explain the engineering decisions, answer teacher questions, and quickly debug any changes the teacher makes during evaluation.
 
